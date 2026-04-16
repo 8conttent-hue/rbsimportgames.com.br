@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o RBSIMPORTGAMES"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Me chamo Rodrigo Barbosa e tenho 34 anos. Sou um entusiasta dos games e criei o RBSIMPORTGAMES para compartilhar minhas experiências e conhecimentos acumulados ao longo dos anos."
+  },
+  "content": "O RBSIMPORTGAMES é uma plataforma dedicada a compartilhar tudo sobre o universo dos games. Aqui, trago análises, dicas e novidades para todos os apaixonados por essa cultura.",
+  "mission": "Nosso objetivo é ser um portal de comunicação e conhecimento, onde gamers de todos os níveis possam se sentir em casa e aprimorar suas habilidades.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

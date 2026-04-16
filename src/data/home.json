@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "title": "RBSIMPORTGAMES — Bem-vindo ao RBSIMPORTGAMES!",
+    "description": "Sua fonte de conhecimento e experiências no universo dos games."
+  },
+  "hero": {
+    "title": "Bem-vindo ao RBSIMPORTGAMES!",
+    "subtitle": "Sua fonte de conhecimento e experiências no universo dos games.",
+    "btnText": "Explore agora",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "O que você vai encontrar aqui?",
+    "items": [
+      {
+        "icon": "🎮",
+        "title": "Conteúdo Diversificado",
+        "desc": "Artigos sobre jogos de todas as idades e níveis, do iniciante ao avançado."
+      },
+      {
+        "icon": "📚",
+        "title": "Experiências Pessoais",
+        "desc": "Relatos e análises baseadas na minha vivência de 34 anos como gamer."
+      },
+      {
+        "icon": "🌐",
+        "title": "Comunidade Ativa",
+        "desc": "Participe de um espaço onde gamers se conectam, trocam ideias e se mantêm atualizados."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre Rodrigo Barbosa",
+    "desc": "Me chamo Rodrigo Barbosa e tenho 34 anos. Sou um entusiasta dos games e criei o RBSIMPORTGAMES para compartilhar minhas experiências e conhecimentos acumulados ao longo dos anos.",
+    "stats": [
+      {
+        "value": "1 Ano",
+        "label": "De RBSIMPORTGAMES no ar"
+      },
+      {
+        "value": "100+",
+        "label": "Jogos analisados"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

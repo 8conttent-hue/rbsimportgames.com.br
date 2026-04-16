@@ -1,0 +1,53 @@
+{
+  "name": "RBSIMPORTGAMES",
+  "slug": "rbsimportgames.com.br",
+  "description": "Me chamo Rodrigo Barbosa, tenho 34 anos, escrevo para o rbsimportgames e aqui irei contar um pouco das minhas experiências como gamer. Sou um entusiasta com sede de conhecimento. Meu objetivo principal é passar todo minha vivencia ao longo dos anos no mundo dos games. Desde sempre eu gosto de dividir conhecimento e o rbsimportgames é a minha válvula de escape. Aqui é onde eu escrevo tudo que eu sei sobre o nosso mundo. Há 1 ano acabei trabalhando duro para a criação do site e acredito muito que atingirei meu objetivo de trazer muito conteúdo sobre o mundo dos games. Games de todas as idades e dos mais váriados níveis, do iniciante ao avançado são muito bem vindos ao meu site. Com certeza tenho bastante conteúdo para todos. Aqui você sempre terá um incrível portal de comunicação no mundo do games. Você vai poder sempre se manter antenado assinando a minha newsletter.",
+  "url": "https://rbsimportgames.com.br",
+  "niche": "Entretenimento",
+  "keywords": "Me chamo Rodrigo Barbosa tenho 34 anos escrevo para o rbsimportgames e",
+  "email": "contato@rbsimportgames.com.br",
+  "palette": "gold",
+  "colors": {
+    "primary": "#ca8a04",
+    "accent": "#92400e",
+    "dark": "#451a03"
+  },
+  "headerContrast": "light",
+  "font": "montserrat",
+  "fontFamily": "'Montserrat', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-J",
+    "hero": "Hero-F",
+    "features": "Features-G",
+    "about": "About-H",
+    "posts": "Posts-B",
+    "footer": "Footer-D",
+    "sobre": "Sobre-A",
+    "contato": "Contato-D"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
